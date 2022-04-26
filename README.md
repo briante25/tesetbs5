@@ -2,17 +2,18 @@
 <h1>
 HTML是一種標記型文檔，用來標記一個文本內容意義的文檔。最外層的HTML標籤標記整個文檔的內容屬於HTML。裡面的head就是文檔的屬性，如文檔類型，文檔大小，文檔名等；body就是文檔主要內容。而後來HTML被用作網頁開發，因此head就成了描述網站屬性的標記，而body就成了網站內容的標記。
 </h1>
+<meta charset="utf-8">
 <!DOCTYPE html>
 <html>
 
 <head>
-    <meta charset="utf-8">
+    
     <title>My test page</title>
     <style>
         
     </style>
 </head>
-
+<meta charset="utf-8">
 <body>
     <table style="border:3px #cccccc solid;" cellpadding="10" border='1'>
         <tr>
