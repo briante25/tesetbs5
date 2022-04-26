@@ -5,7 +5,7 @@ HTML是一種標記型文檔，用來標記一個文本內容意義的文檔。�
 <meta charset="utf-8">
 <!DOCTYPE html>
 <html>
-
+<meta charset="utf-8">
 <head>
     
     <title>My test page</title>
@@ -13,7 +13,6 @@ HTML是一種標記型文檔，用來標記一個文本內容意義的文檔。�
         
     </style>
 </head>
-<meta charset="utf-8">
 <body>
     <table style="border:3px #cccccc solid;" cellpadding="10" border='1'>
         <tr>
@@ -28,8 +27,8 @@ HTML是一種標記型文檔，用來標記一個文本內容意義的文檔。�
         </tr>
     </table>
 </body>
-
 </html>
+<meta charset="utf-8">
 https://www.webtech.tw/info.php?tid=HTML_head_標籤
 
 <!DOCTYPE html> — 文件類型（doctype）文件類型是用來連結一些應遵守的規則，有點像自動校正的功能。然而，現在大家其實不太管文件類型，它就是個必須放在程式碼中的東西，現階段大家只需要知道這點就夠了。
